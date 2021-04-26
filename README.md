@@ -1,7 +1,7 @@
 # Languages
  
- [pt-BR](#Responsividade)
- [en-US](#Responsiveness)
+ * [pt-BR](#Responsividade)
+ * [en-US](#Responsiveness)
 # 📱Responsiveness
 
 This repository was made for I train responsinevess concepts, and study into practice responsiveness.
