@@ -1,3 +1,11 @@
-# Responsividade 
+# Languanges
+ [pt-BR](#📱Responsividade)
+ [en-US](#📱Responsiveness)
+---
+# 📱Responsiveness
+This repository was made for I train responsinevess concepts, and study into practice responsiveness.
+---
+# 📱Responsividade 
 
-Esse repositório ele foi feito para eu treinar conceitos e estudar mesmo na prática responsividade.
+Esse repositório foi feito para eu treinar conceitos de responsivdade, e estudar mesmo na prática responsividade.
+
