@@ -4,7 +4,7 @@
  * [pt-BR](#Responsividade)
 # 📱Responsiveness
 
-This repository was made for I train responsinevess concepts, and study into practice responsiveness.
+This repository was made for I train responsinevess concepts, and study into practice responsiveness. All the material here was made with assistance, and with the materials available in the rocketseat-content repository [link](https://github.com/rocketseat-content/youtube-masterclass-responsividade).
 
 ## CSS Units
 
@@ -64,7 +64,7 @@ CSS unit of measure.
  * Always use the SVG format for creating responsive websites, as it supports changing the image with good resolution.
 # 📱Responsividade 
 
-Esse repositório foi feito para eu treinar conceitos de responsivdade, e estudar mesmo na prática responsividade.
+Esse repositório foi feito para eu treinar conceitos de responsivdade, e estudar mesmo na prática responsividade. Todo o matérial aqui foi feito com auxílio, e com os materiais disponíveis do repositório da rocketseat-content [link](https://github.com/rocketseat-content/youtube-masterclass-responsividade).
 
 ## CSS Units
 
