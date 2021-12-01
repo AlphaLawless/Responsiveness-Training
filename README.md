@@ -44,7 +44,7 @@ CSS unit of measure.
   
   <link rel="stylesheet" href="print.css" media="print">
 ```
-## Imagens
+## Images
 
 `<picture>` and `<source>`
 ```html
@@ -105,7 +105,7 @@ Unidades de medida do CSS.
   
   <link rel="stylesheet" href="print.css" media="print">
 ```
-## Images
+## Imagens
 
 `<picture>` e `<source>`
 ```html
